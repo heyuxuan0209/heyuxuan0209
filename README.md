@@ -13,6 +13,14 @@ AI 落地的一手经验和思考（主页二维码见文末，欢迎来聊）�
 
 ---
 
+## 🆕 最新：watch-anything
+
+🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) —— 看不完的视频，让 AI 替你看懂。
+X / YouTube / B站 视频（**含无字幕**）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。
+read-anything 的姊妹：read 管读文字，watch 管看视频。
+
+---
+
 ## 🌟 read & watch —— 让 AI 替你「读懂」和「看懂」
 
 一对姊妹 skill，装进任何能跑 shell 的 AI agent（Claude Code / Codex / Cursor / Gemini CLI …）就能用，
