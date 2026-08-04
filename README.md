@@ -42,6 +42,9 @@ read-anything 的姊妹：read 管读文字，watch 管看视频。
 🛠️ [**open-skills**](https://github.com/heyuxuan0209/open-skills) —— 实战踩坑攒出来的
 Claude Code / Agent Skills 合集（定期大扫除 deep-clean 等）。
 
+🌉 [**codex-feishu-bridge**](https://github.com/heyuxuan0209/codex-feishu-bridge) —— 把 Codex CLI
+桥接成飞书 / Lark 机器人：扫码建 bot、macOS 后台常驻、空闲不烧 token。
+
 🤝 [**mindforge**](https://github.com/heyuxuan0209/mindforge) —— 多 AI 协作的终端工具，
 自动管理上下文与决策。
 
