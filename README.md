@@ -64,6 +64,10 @@ Claude Code / Agent Skills 合集（定期大扫除 deep-clean 等）。
 
 📈 [**KOL-match**](https://github.com/heyuxuan0209/KOL-match) —— 电商达人投放决策系统。
 
+⚖️ [**Lawyer-AI**](https://github.com/heyuxuan0209/Lawyer-AI) —— 面向律师咨询场景的 AI 产品探索：
+把混乱的客户咨询记录整理成律师可改、可交付的工作底稿（劳动争议付费咨询助手 MVP）。
+[▶️ 在线体验原型](https://prototype-pi-weld.vercel.app)
+
 ---
 
 ## 🔗 关注我 · learn in public, build in public
