@@ -13,13 +13,27 @@ AI 落地的一手经验和思考（主页二维码见文末，欢迎来聊）�
 
 ---
 
-## 🆕 最新：watch-anything
+https://github.com/user-attachments/assets/2d873ad5-4439-4a17-9f24-9112ee7d2ce0
 
-🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) —— 看不完的视频，让 AI 替你看懂。
-X / YouTube / B站 视频（**含无字幕**）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。
-read-anything 的姊妹：read 管读文字，watch 管看视频。
+<div align="center"><sub>▶️ 3 分钟看我怎么<b>一个人用 AI 做内容</b> · a 3-min look at how I do content solo with AI（下面的 knowledge-workbench 就是这套流水线）</sub></div>
 
 ---
+
+## 📝 写作 · Writing
+
+边做边写，把方法和踩过的坑公开分享：
+
+- 📖 [《你效率提升 10 倍，你们公司为什么没有？》](https://mp.weixin.qq.com/s/tq8vUI52kRXyn2ZvPDWwwg) · 公众号「**杰西卡聊AI**」
+
+> 想追更多，扫文末公众号二维码「杰西卡聊AI」。
+
+---
+
+## 🧠 旗舰 · knowledge-workbench
+
+🧠 [**knowledge-workbench**](https://github.com/heyuxuan0209/knowledge-workbench) —— 一个人把
+「信息 → 认知 → 内容」做成飞轮的完整尝试：**采集 → 理解 → 沉淀 → 创作 → 发布 → 复盘**。
+上面那条视频讲的就是它；下面两个 skill 也是从这里提炼出来的。
 
 ## 🌟 read & watch —— 让 AI 替你「读懂」和「看懂」
 
@@ -32,12 +46,7 @@ read-anything 的姊妹：read 管读文字，watch 管看视频。
 🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) —— X / YouTube / B站 视频
 （**含无字幕**）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。**watch 管看视频。**
 
----
-
-## 🧰 还在做的
-
-🧠 [**knowledge-workbench**](https://github.com/heyuxuan0209/knowledge-workbench) —— 一个人把
-「信息 → 认知 → 内容」做成飞轮的完整尝试：采集 → 理解 → 沉淀 → 创作。上面两个 skill 就是从这里提炼出来的。
+## 🧰 Agent Skills & 工具
 
 🛠️ [**open-skills**](https://github.com/heyuxuan0209/open-skills) —— 实战踩坑攒出来的
 Claude Code / Agent Skills 合集（定期大扫除 deep-clean 等）。
@@ -48,8 +57,10 @@ Claude Code / Agent Skills 合集（定期大扫除 deep-clean 等）。
 🤝 [**mindforge**](https://github.com/heyuxuan0209/mindforge) —— 多 AI 协作的终端工具，
 自动管理上下文与决策。
 
+## 🛒 产品作品集
+
 🛒 [**mall-operation-system**](https://github.com/heyuxuan0209/mall-operation-system) —— AI 驱动的
-商户运营管理系统（作品集项目）。
+商户运营管理系统（把资深商场专家的经营判断变成可复用的 Agent 工作流）。
 
 📈 [**KOL-match**](https://github.com/heyuxuan0209/KOL-match) —— 电商达人投放决策系统。
 
