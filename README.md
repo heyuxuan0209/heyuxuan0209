@@ -1,15 +1,11 @@
 # 你好，我是杰西卡 👋
 
-> I build AI products & agent skills, and share the whole process in public.
+**AI 产品人 · build in public** —— 一边做产品，一边把过程和踩过的坑公开写出来。
 
-我是一个 **AI 产品人**，在 **build in public**——一边做产品，一边把过程和踩过的坑公开分享。
+我做的东西围绕一个信念：**AI 吃掉一切不产生理解的杂活；判断、观点、表达，留给人。**
+下面这些项目都是同一条链路上的一环 —— 把「信息 → 认知 → 内容」做成一个人也能转起来的飞轮。
 
-我做的东西都围绕一个信念：**AI 吃掉杂活，判断留给人**。我想把「**信息 → 认知 → 内容**」
-这条链路做成一个人也能转起来的飞轮：把读到、看到的东西快速读懂、沉淀进自己的知识库，
-再变成能发出去的内容。下面这些项目，都是这个飞轮上的一环。
-
-📱 小红书 / 公众号「**杰西卡聊AI**」· 抖音 **@杰西卡** —— 我在这些地方分享 AI 产品、
-AI 落地的一手经验和思考（主页二维码见文末，欢迎来聊）。
+🏠 [个人站](https://heyuxuan0209.github.io) · ✍️ 公众号「**杰西卡聊AI**」· 📕 小红书 [杰西卡](https://www.xiaohongshu.com/user/profile/111013749) · 🎵 抖音 [@杰西卡](https://www.douyin.com/user/2179932674)（二维码见文末）
 
 ---
 
@@ -19,54 +15,61 @@ https://github.com/user-attachments/assets/2d873ad5-4439-4a17-9f24-9112ee7d2ce0
 
 ---
 
-## 📝 写作 · Writing
+## ⭐ 旗舰项目
 
-边做边写，把方法和踩过的坑公开分享：
+飞轮的主体，其他项目多半是从这里长出去的。
 
-- 📖 [《你效率提升 10 倍，你们公司为什么没有？》](https://mp.weixin.qq.com/s/tq8vUI52kRXyn2ZvPDWwwg) · 公众号「**杰西卡聊AI**」
-
-> 想追更多，扫文末公众号二维码「杰西卡聊AI」。
+🧠 [**knowledge-workbench**](https://github.com/heyuxuan0209/knowledge-workbench) (<!--stars:knowledge-workbench-->2<!--/stars--> stars) - 一个人把「信息 → 认知 → 内容」做成飞轮的完整尝试：采集 → 理解 → 沉淀 → 创作 → 发布 → 复盘。上面那条视频讲的就是它
 
 ---
 
-## 🧠 旗舰 · knowledge-workbench
+## 🌟 read & watch —— 让 AI 替你读懂、看懂
 
-🧠 [**knowledge-workbench**](https://github.com/heyuxuan0209/knowledge-workbench) —— 一个人把
-「信息 → 认知 → 内容」做成飞轮的完整尝试：**采集 → 理解 → 沉淀 → 创作 → 发布 → 复盘**。
-上面那条视频讲的就是它；下面两个 skill 也是从这里提炼出来的。
+一对姊妹 skill。装进任何能跑 shell 的 AI agent（Claude Code / Codex / Cursor / Gemini CLI…）就能用，丢链接进去，产物是你自己的 markdown。
 
-## 🌟 read & watch —— 让 AI 替你「读懂」和「看懂」
+📖 [**read-anything**](https://github.com/heyuxuan0209/read-anything) (<!--stars:read-anything-->24<!--/stars--> stars) - 任意链接（网页 / 博客 / 播客 / X）→ 中文结构化解读 → NotebookLM 式对话。**read 管读文字**
 
-一对姊妹 skill，装进任何能跑 shell 的 AI agent（Claude Code / Codex / Cursor / Gemini CLI …）就能用，
-丢链接就出中文解读，产物是你自己的 markdown：
+🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) (<!--stars:watch-anything-->19<!--/stars--> stars) - X / YouTube / B站 视频（含无字幕）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。**watch 管看视频**
 
-📖 [**read-anything**](https://github.com/heyuxuan0209/read-anything) —— 任意链接（网页 / 博客 /
-播客 / X）→ 中文结构化解读 → NotebookLM 式对话。**read 管读文字。**
-
-🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) —— X / YouTube / B站 视频
-（**含无字幕**）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。**watch 管看视频。**
+---
 
 ## 🧰 Agent Skills & 工具
 
-🛠️ [**open-skills**](https://github.com/heyuxuan0209/open-skills) —— 实战踩坑攒出来的
-Claude Code / Agent Skills 合集（定期大扫除 deep-clean 等）。
+在真实项目里被坑出来、清洗后开源的东西。
 
-🌉 [**codex-feishu-bridge**](https://github.com/heyuxuan0209/codex-feishu-bridge) —— 把 Codex CLI
-桥接成飞书 / Lark 机器人：扫码建 bot、macOS 后台常驻、空闲不烧 token。
+🛠️ [**open-skills**](https://github.com/heyuxuan0209/open-skills) (<!--stars:open-skills-->1<!--/stars--> stars) - 实战踩坑攒出来的 Claude Code / Agent Skills 合集。deep-clean 的核心是一条教训：AI 最会把文件夹摆整齐，最容易跳过核对内容
 
-🤝 [**mindforge**](https://github.com/heyuxuan0209/mindforge) —— 多 AI 协作的终端工具，
-自动管理上下文与决策。
+🌉 [**codex-feishu-bridge**](https://github.com/heyuxuan0209/codex-feishu-bridge) (<!--stars:codex-feishu-bridge-->1<!--/stars--> stars) - 把 Codex CLI 桥接成飞书 / Lark 机器人：扫码建 bot、macOS 后台常驻、空闲不烧 token
+
+🤝 [**mindforge**](https://github.com/heyuxuan0209/mindforge) (<!--stars:mindforge-->2<!--/stars--> stars) - 多 AI 协作的终端工具，自动传递上下文、记录分歧与决策，不用每换个模型就重讲一遍背景
+
+---
 
 ## 🛒 产品作品集
 
-🛒 [**mall-operation-system**](https://github.com/heyuxuan0209/mall-operation-system) —— AI 驱动的
-商户运营管理系统（把资深商场专家的经营判断变成可复用的 Agent 工作流）。
+把行业专家的判断，做成可复用、可追踪的 Agent 工作流。
 
-⚖️ [**Lawyer-AI**](https://github.com/heyuxuan0209/Lawyer-AI) —— 面向律师咨询场景的 AI 产品探索：
-把混乱的客户咨询记录整理成律师可改、可交付的工作底稿（劳动争议付费咨询助手 MVP）。
-[▶️ 在线体验原型](https://prototype-pi-weld.vercel.app)
+🛒 [**mall-operation-system**](https://github.com/heyuxuan0209/mall-operation-system) (<!--stars:mall-operation-system-->1<!--/stars--> stars) - 商场经营 Agent：销售、客流、合同、活动、巡店记录散在各处，把它们收成一条研判链路，输出可执行的改善动作 · [▶️ 在线 Demo](https://mall-operation-system.vercel.app)
 
-📈 [**KOL-match**](https://github.com/heyuxuan0209/KOL-match) —— 电商达人投放决策系统。
+⚖️ [**Lawyer-AI**](https://github.com/heyuxuan0209/Lawyer-AI) (<!--stars:Lawyer-AI-->1<!--/stars--> stars) - 把混乱的客户咨询记录，整理成律师可改、可确认、可交付的工作底稿（劳动争议付费咨询助手 MVP）· [▶️ 在线 Demo](https://prototype-pi-weld.vercel.app)
+
+📈 [**KOL-match**](https://github.com/heyuxuan0209/KOL-match) (<!--stars:KOL-match-->0<!--/stars--> stars) - 电商达人投放决策系统：从「找人」变成「分组 + 排期 + 首轮先谈名单」
+
+---
+
+## 📝 写作
+
+长文首发在公众号「**杰西卡聊AI**」。写的都是自己做项目踩出来的东西 —— 结论好抄，坑不好抄。
+
+<!--articles-start-->
+- 📖 [你效率提升 10 倍，你们公司为什么没有？](https://mp.weixin.qq.com/s/tq8vUI52kRXyn2ZvPDWwwg) · 2026.08.03
+- 📖 [会说话的 agent，多半不干活](https://mp.weixin.qq.com/s/7LPsQAxA_W0pHMr40kSQfg) · 2026.08.02
+- 📖 [有些需求，天生说不清](https://mp.weixin.qq.com/s/K9t1P6SaO0Bwlo2khO43xg) · 2026.07.29
+- 📖 [当所有人都能做到 80 分](https://mp.weixin.qq.com/s/ORSw3MRdgn3dbwfE92ys2w) · 2026.07.28
+- 📖 [AI 大会上，他戴着安全帽上台](https://mp.weixin.qq.com/s/_X7cuARgdmdNZ-68V5g6yQ) · 2026.07.27
+<!--articles-end-->
+
+👉 全部文章在[个人站](https://heyuxuan0209.github.io/#writing)，或扫文末二维码关注公众号。
 
 ---
 
@@ -88,3 +91,5 @@ Claude Code / Agent Skills 合集（定期大扫除 deep-clean 等）。
     <td align="center"><img src="assets/qr-douyin.jpg" width="200" alt="抖音 杰西卡"></td>
   </tr>
 </table>
+
+<sub>本页的 star 数和文章列表每天自动更新，不用手改。</sub>
