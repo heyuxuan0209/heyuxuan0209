@@ -62,11 +62,11 @@ https://github.com/user-attachments/assets/2d873ad5-4439-4a17-9f24-9112ee7d2ce0
 长文首发在公众号「**杰西卡聊AI**」。写的都是自己做项目踩出来的东西 —— 结论好抄，坑不好抄。
 
 <!--articles-start-->
+- 📖 [AI一键出片，真的那么容易吗？](https://mp.weixin.qq.com/s/iYoM50lJuHF6b-gTwf30tw) · 2026.08.07
 - 📖 [你效率提升 10 倍，你们公司为什么没有？](https://mp.weixin.qq.com/s/tq8vUI52kRXyn2ZvPDWwwg) · 2026.08.03
 - 📖 [会说话的 agent，多半不干活](https://mp.weixin.qq.com/s/7LPsQAxA_W0pHMr40kSQfg) · 2026.08.02
 - 📖 [有些需求，天生说不清](https://mp.weixin.qq.com/s/K9t1P6SaO0Bwlo2khO43xg) · 2026.07.29
 - 📖 [当所有人都能做到 80 分](https://mp.weixin.qq.com/s/ORSw3MRdgn3dbwfE92ys2w) · 2026.07.28
-- 📖 [AI 大会上，他戴着安全帽上台](https://mp.weixin.qq.com/s/_X7cuARgdmdNZ-68V5g6yQ) · 2026.07.27
 <!--articles-end-->
 
 👉 全部文章在[个人站](https://heyuxuan0209.github.io/#writing)，或扫文末二维码关注公众号。
