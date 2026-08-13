@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/2d873ad5-4439-4a17-9f24-9112ee7d2ce0
 
 📖 [**read-anything**](https://github.com/heyuxuan0209/read-anything) (<!--stars:read-anything-->25<!--/stars--> stars) - 任意链接（网页 / 博客 / 播客 / X）→ 中文结构化解读 → NotebookLM 式对话。**read 管读文字**
 
-🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) (<!--stars:watch-anything-->20<!--/stars--> stars) - X / YouTube / B站 视频（含无字幕）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。**watch 管看视频**
+🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) (<!--stars:watch-anything-->21<!--/stars--> stars) - X / YouTube / B站 视频（含无字幕）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。**watch 管看视频**
 
 ---
 
