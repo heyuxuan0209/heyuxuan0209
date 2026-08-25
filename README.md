@@ -27,9 +27,9 @@ https://github.com/user-attachments/assets/2d873ad5-4439-4a17-9f24-9112ee7d2ce0
 
 一对姊妹 skill。装进任何能跑 shell 的 AI agent（Claude Code / Codex / Cursor / Gemini CLI…）就能用，丢链接进去，产物是你自己的 markdown。
 
-📖 [**read-anything**](https://github.com/heyuxuan0209/read-anything) (<!--stars:read-anything-->27<!--/stars--> stars) - 任意链接（网页 / 博客 / 播客 / X）→ 中文结构化解读 → NotebookLM 式对话。**read 管读文字**
+📖 [**read-anything**](https://github.com/heyuxuan0209/read-anything) (<!--stars:read-anything-->28<!--/stars--> stars) - 任意链接（网页 / 博客 / 播客 / X）→ 中文结构化解读 → NotebookLM 式对话。**read 管读文字**
 
-🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) (<!--stars:watch-anything-->22<!--/stars--> stars) - X / YouTube / B站 视频（含无字幕）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。**watch 管看视频**
+🎬 [**watch-anything**](https://github.com/heyuxuan0209/watch-anything) (<!--stars:watch-anything-->23<!--/stars--> stars) - X / YouTube / B站 视频（含无字幕）→ 自动下音轨转写 → 中文卡片解读（摘要 / 要点 / 金句中英对照）。**watch 管看视频**
 
 ---
 
@@ -37,11 +37,11 @@ https://github.com/user-attachments/assets/2d873ad5-4439-4a17-9f24-9112ee7d2ce0
 
 在真实项目里被坑出来、清洗后开源的东西。
 
-🛠️ [**open-skills**](https://github.com/heyuxuan0209/open-skills) (<!--stars:open-skills-->1<!--/stars--> stars) - 实战踩坑攒出来的 Claude Code / Agent Skills 合集。deep-clean 的核心是一条教训：AI 最会把文件夹摆整齐，最容易跳过核对内容
+🛠️ [**open-skills**](https://github.com/heyuxuan0209/open-skills) (<!--stars:open-skills-->2<!--/stars--> stars) - 实战踩坑攒出来的 Claude Code / Agent Skills 合集。deep-clean 的核心是一条教训：AI 最会把文件夹摆整齐，最容易跳过核对内容
 
 🌉 [**codex-feishu-bridge**](https://github.com/heyuxuan0209/codex-feishu-bridge) (<!--stars:codex-feishu-bridge-->1<!--/stars--> stars) - 把 Codex CLI 桥接成飞书 / Lark 机器人：扫码建 bot、macOS 后台常驻、空闲不烧 token
 
-🤝 [**mindforge**](https://github.com/heyuxuan0209/mindforge) (<!--stars:mindforge-->2<!--/stars--> stars) - 多 AI 协作的终端工具，自动传递上下文、记录分歧与决策，不用每换个模型就重讲一遍背景
+🤝 [**mindforge**](https://github.com/heyuxuan0209/mindforge) (<!--stars:mindforge-->3<!--/stars--> stars) - 多 AI 协作的终端工具，自动传递上下文、记录分歧与决策，不用每换个模型就重讲一遍背景
 
 ---
 
