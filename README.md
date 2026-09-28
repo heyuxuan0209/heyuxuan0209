@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/2d873ad5-4439-4a17-9f24-9112ee7d2ce0
 
 飞轮的主体，其他项目多半是从这里长出去的。
 
-🧠 [**knowledge-workbench**](https://github.com/heyuxuan0209/knowledge-workbench) (<!--stars:knowledge-workbench-->2<!--/stars--> stars) - 一个人把「信息 → 认知 → 内容」做成飞轮的完整尝试：采集 → 理解 → 沉淀 → 创作 → 发布 → 复盘。上面那条视频讲的就是它
+🧠 [**knowledge-workbench**](https://github.com/heyuxuan0209/knowledge-workbench) (<!--stars:knowledge-workbench-->3<!--/stars--> stars) - 一个人把「信息 → 认知 → 内容」做成飞轮的完整尝试：采集 → 理解 → 沉淀 → 创作 → 发布 → 复盘。上面那条视频讲的就是它
 
 ---
 
